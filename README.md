@@ -15,3 +15,11 @@
 ![image (6)](https://github.com/indresh149/MyMalla/assets/76736055/20678b03-7ec1-4e12-b6cf-0a4fe9c65348)
 
 ![image (7)](https://github.com/indresh149/MyMalla/assets/76736055/78130739-d6b8-4442-a5d4-fe0c853aacc8)
+
+![image (8)](https://github.com/indresh149/MyMalla/assets/76736055/b1c01dca-6a17-48f6-ab81-17947451f1c9)
+
+![image (9)](https://github.com/indresh149/MyMalla/assets/76736055/0591792c-afc7-4218-be8c-f49424f706ca)
+
+![image (10)](https://github.com/indresh149/MyMalla/assets/76736055/55971cf2-71b3-471a-84c4-de99b69a7566)
+
+![image (11)](https://github.com/indresh149/MyMalla/assets/76736055/1bbca5f4-f5d2-462b-95f1-ea2308278aaf)
