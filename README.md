@@ -1,79 +1,17 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## Screenshots
 
-# Getting Started
+![image](https://github.com/indresh149/MyMalla/assets/76736055/7ed54eea-e545-4977-aa91-bffe7d34c3c4)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+![image (1)](https://github.com/indresh149/MyMalla/assets/76736055/cdc2881a-3f52-429e-9f46-a74e1371ad68)
 
-## Step 1: Start the Metro Server
+![image (2)](https://github.com/indresh149/MyMalla/assets/76736055/cf7b2d70-6775-407a-bc6d-000c957845d0)
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+![image (3)](https://github.com/indresh149/MyMalla/assets/76736055/de80c5d5-43bb-4d3a-994c-84f16bdfa7a1)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+![image (4)](https://github.com/indresh149/MyMalla/assets/76736055/23f77288-c3d8-4e8a-801d-2acc26b6cfde)
 
-```bash
-# using npm
-npm start
+![image (5)](https://github.com/indresh149/MyMalla/assets/76736055/fb27d3f3-853e-44ef-9a20-3156fb1e60ca)
 
-# OR using Yarn
-yarn start
-```
+![image (6)](https://github.com/indresh149/MyMalla/assets/76736055/20678b03-7ec1-4e12-b6cf-0a4fe9c65348)
 
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![image (7)](https://github.com/indresh149/MyMalla/assets/76736055/78130739-d6b8-4442-a5d4-fe0c853aacc8)
